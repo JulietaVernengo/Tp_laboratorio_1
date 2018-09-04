@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1535931970 source:c:\users\alumno\desktop\tp1 vernengo\tp1 vernengo\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1535929408 c:\users\alumno\desktop\tp1 vernengo\tp1 vernengo\funciones.h
+
+1535931879 source:c:\users\alumno\desktop\tp1 vernengo\tp1 vernengo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<conio.h>
+
